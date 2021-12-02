@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "885C0F9A28528304A9302838BA5B0A5D",
+  "keywordClasses": [
+    {
+      "name": "com.arabbank.toastmessage.Toast",
+      "keywordMethods": [
+        {
+          "name": "readToastMessage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

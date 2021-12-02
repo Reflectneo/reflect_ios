@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_1449_TC_02_Validate PIN setup Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a84bdf5-ec2f-4810-9c2a-6af71bf8ac83</testCaseGuid>
+</TestCaseEntity>

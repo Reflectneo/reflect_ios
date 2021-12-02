@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Last Name Field is required</description>
+   <name>NEO_73_TC_27_Verify Last Name Field is required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f18aa1aa-0593-4cfc-8dfb-336e8a632cb7</testCaseGuid>
+</TestCaseEntity>

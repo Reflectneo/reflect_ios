@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Where are you going  is  max 50 characters</description>
+   <name>NEO_147_TC_06_Validate Where are you going is max 50 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b21b74d9-80ea-4160-8931-f336cf0ec45f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the trip Max goal: 24 Months</description>
+   <name>NEO_147_TC_08_Validate the trip Max goal 24 Months</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d22c0607-cdc3-45d3-837f-27acefd3293a</testCaseGuid>
+</TestCaseEntity>

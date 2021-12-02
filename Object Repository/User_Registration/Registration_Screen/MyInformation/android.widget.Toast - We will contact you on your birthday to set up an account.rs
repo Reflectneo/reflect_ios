@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>android.widget.Toast - We will contact you on your birthday to set up an account</name>
+   <tag></tag>
+   <elementGuidId>fbe50a81-ae78-4cf7-8938-ded3bfaa363b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.Toast</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We will contact you on your birthday to set up an account.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>package</name>
+      <type>Main</type>
+      <value>com.android.settings</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>displayed</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//hierarchy/android.widget.Toast[1]</value>
+   </webElementProperties>
+   <locator>//hierarchy/android.widget.Toast[1][count(. | //*[@class = 'android.widget.Toast' and (@text = 'We will contact you on your birthday to set up an account.' or . = 'We will contact you on your birthday to set up an account.') and @displayed = 'true']) = count(//*[@class = 'android.widget.Toast' and (@text = 'We will contact you on your birthday to set up an account.' or . = 'We will contact you on your birthday to set up an account.') and @displayed = 'true'])]</locator>
+   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+</MobileElementEntity>

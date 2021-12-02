@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  user can see all the details after clicking on Next</description>
+   <name>NEO_331_TC_11_Validate user can see all the details after clicking on Next</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5178815-cdef-44ec-bbc2-b3ce8e94e8f6</testCaseGuid>
+</TestCaseEntity>

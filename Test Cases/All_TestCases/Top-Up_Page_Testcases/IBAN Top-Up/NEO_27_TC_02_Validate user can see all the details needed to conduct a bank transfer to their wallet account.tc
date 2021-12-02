@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_27_TC_02_Validate user can see all the details needed to conduct a bank transfer to their wallet account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1c83bf8-929e-41e1-92d0-de4cb2acef5c</testCaseGuid>
+</TestCaseEntity>

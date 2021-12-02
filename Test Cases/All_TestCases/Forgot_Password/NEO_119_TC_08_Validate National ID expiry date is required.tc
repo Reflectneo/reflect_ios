@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_119_TC_08_Validate National ID expiry date is required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c444ecf2-9f20-47ba-8145-32282790db6e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate If the user chooses Pay the Payment</description>
+   <name>NEO_336_TC_18_Validate If the user chooses Pay the Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db9cf0a9-e2a3-4399-afd5-b3b5b8e6df1f</testCaseGuid>
+</TestCaseEntity>

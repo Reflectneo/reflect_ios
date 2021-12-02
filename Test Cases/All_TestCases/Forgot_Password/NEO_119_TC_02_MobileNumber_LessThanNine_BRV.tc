@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_119_TC_02_MobileNumber_LessThanNine_BRV</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d51cf2b6-2bdf-426f-a075-3de2ba38b8a8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Settings&quot; button on virtual card</description>
+   <name>NEO_399_TC_14_Settings button on virtual card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>627895b4-1da7-4972-8560-d1a492024907</testCaseGuid>
+</TestCaseEntity>

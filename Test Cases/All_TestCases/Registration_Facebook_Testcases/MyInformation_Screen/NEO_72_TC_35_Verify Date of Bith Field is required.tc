@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Date of Bith Field is required</description>
+   <name>NEO_72_TC_35_Verify Date of Bith Field is required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9a793a5-f1cc-4fdd-a04f-c94762de5912</testCaseGuid>
+</TestCaseEntity>

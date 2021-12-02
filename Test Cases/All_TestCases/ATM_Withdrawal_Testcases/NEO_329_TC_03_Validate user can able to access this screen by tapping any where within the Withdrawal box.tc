@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate user can able to access this screen by tapping any where within the 'Withdrawal' box</description>
+   <name>NEO_329_TC_03_Validate user can able to access this screen by tapping any where within the Withdrawal box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9272260-a5ad-468d-ac6f-d7d860171cc0</testCaseGuid>
+</TestCaseEntity>

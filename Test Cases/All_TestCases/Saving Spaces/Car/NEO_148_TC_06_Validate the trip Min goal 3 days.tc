@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the trip Min goal: 3 days</description>
+   <name>NEO_148_TC_06_Validate the trip Min goal 3 days</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41af43c7-ec84-4ace-885c-5e422045f067</testCaseGuid>
+</TestCaseEntity>

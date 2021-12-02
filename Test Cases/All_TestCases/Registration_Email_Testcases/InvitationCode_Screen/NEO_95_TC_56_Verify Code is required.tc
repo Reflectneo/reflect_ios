@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Code is required</description>
+   <name>NEO_95_TC_56_Verify Code is required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c68b0035-1a07-47b5-a480-1d86b01498b6</testCaseGuid>
+</TestCaseEntity>

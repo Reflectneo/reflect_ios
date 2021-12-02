@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>CountryCode_FieldValidation</description>
+   <name>NEO_72_TC_06_CountryCode_FieldValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>619c5f06-f016-4997-acb1-9f5c1ee5cc16</testCaseGuid>
+</TestCaseEntity>

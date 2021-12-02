@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>OTP Field is  less than 6 digits</description>
+   <name>NEO_22_TC_05_OTP Field is less than 6 digits</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a85ed058-e169-46d1-830d-990871c310b8</testCaseGuid>
+</TestCaseEntity>

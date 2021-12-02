@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate user can see  the Choose amount field</description>
+   <name>NEO_329_TC_04_Validate user can see the Choose amount field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db5ce75c-1ab9-4cb1-b735-9293e689b9a6</testCaseGuid>
+</TestCaseEntity>

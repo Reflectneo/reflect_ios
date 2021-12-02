@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_119_TC_01_Validate MobileNumber_Required_BusinessRule_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb639817-5cb0-416d-8202-93db5aad5cc7</testCaseGuid>
+</TestCaseEntity>

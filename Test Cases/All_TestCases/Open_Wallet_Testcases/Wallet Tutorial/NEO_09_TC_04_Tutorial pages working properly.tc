@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the entire start fresh card is clickable</description>
+   <name>NEO_09_TC_04_Tutorial pages working properly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d53b9e45-feb4-491c-8f59-d13f45e93874</testCaseGuid>
+</TestCaseEntity>

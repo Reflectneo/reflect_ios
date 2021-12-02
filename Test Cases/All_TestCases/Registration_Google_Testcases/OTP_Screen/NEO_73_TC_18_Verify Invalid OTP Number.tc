@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Invalid OTP Number</description>
+   <name>NEO_73_TC_18_Verify Invalid OTP Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ecfd7d5-ca00-41f5-928e-20a9b8d632b2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_517_TC_06_Validate logout Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>177d9bea-33c5-486a-a716-ac1066bc1732</testCaseGuid>
+</TestCaseEntity>

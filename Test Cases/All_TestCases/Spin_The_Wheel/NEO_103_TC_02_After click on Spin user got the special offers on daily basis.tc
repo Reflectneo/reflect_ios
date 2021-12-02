@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_103_TC_02_After click on Spin user got the special offers on daily basis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66d6129c-1af8-464f-a20f-0ddbb188b9e9</testCaseGuid>
+</TestCaseEntity>

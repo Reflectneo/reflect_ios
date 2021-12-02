@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate pop-up option</description>
+   <name>NEO_336_TC_01_Validate pop-up option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca3b80da-5809-47f9-9e47-df668d505cef</testCaseGuid>
+</TestCaseEntity>

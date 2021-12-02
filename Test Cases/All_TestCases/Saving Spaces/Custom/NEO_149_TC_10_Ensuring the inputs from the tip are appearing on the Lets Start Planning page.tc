@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensuring the inputs from the tip are appearing on the 'Lets Start Planning' page</description>
+   <name>NEO_149_TC_10_Ensuring the inputs from the tip are appearing on the Lets Start Planning page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81a13109-fd69-42f0-962b-ae5135a69ef7</testCaseGuid>
+</TestCaseEntity>

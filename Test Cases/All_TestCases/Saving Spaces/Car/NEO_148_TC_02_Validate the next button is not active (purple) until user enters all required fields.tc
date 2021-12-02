@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the next button is not active (purple) until user enters all required fields</description>
+   <name>NEO_148_TC_02_Validate the next button is not active (purple) until user enters all required fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98a628fa-8f48-48c3-a6a5-544e1d08a532</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>First_Name_LessThan2Digit_BusinessRule_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d86826ba-8b14-466b-9fa1-48a088dd8593</testCaseGuid>
+</TestCaseEntity>

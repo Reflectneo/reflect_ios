@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify automatically changed to Capital letter</description>
+   <name>NEO_72_TC_25_Verify automatically changed to Capital letter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f2df263-3774-4a7e-874f-b4a98fe926fd</testCaseGuid>
+</TestCaseEntity>

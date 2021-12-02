@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invitation code is less than 6 digit</description>
+   <name>NEO_97_TC_03_Invitation code is less than 6 digit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a873a6d9-cde5-455d-a91a-3271baab029a</testCaseGuid>
+</TestCaseEntity>

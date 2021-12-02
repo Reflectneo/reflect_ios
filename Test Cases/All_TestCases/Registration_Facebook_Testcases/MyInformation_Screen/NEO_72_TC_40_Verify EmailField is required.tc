@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify EmailField is required</description>
+   <name>NEO_72_TC_40_Verify EmailField is required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b65778d-3231-403b-9791-0821898a4687</testCaseGuid>
+</TestCaseEntity>

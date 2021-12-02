@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_27_TC_01_Validate successfully display top-up methods</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7469a48f-59c8-49c6-b5f7-eed7bdec69bc</testCaseGuid>
+</TestCaseEntity>

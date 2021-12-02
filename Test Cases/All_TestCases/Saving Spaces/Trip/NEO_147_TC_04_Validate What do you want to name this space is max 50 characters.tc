@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate What do you want to name this space is  max 50 characters</description>
+   <name>NEO_147_TC_04_Validate What do you want to name this space is max 50 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0e29ffb-2f21-46ff-b7ce-c17427580237</testCaseGuid>
+</TestCaseEntity>

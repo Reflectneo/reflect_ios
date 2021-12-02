@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate What do you want to name this space is (optional)</description>
+   <name>NEO_147_TC_03_Validate What do you want to name this space is (optional)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6ab330d-9b96-4e61-8d9a-4ee0b2d9fc0e</testCaseGuid>
+</TestCaseEntity>

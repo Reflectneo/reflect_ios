@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Freeze&quot; button on virtual card</description>
+   <name>NEO_399_TC_15_Freeze button on virtual card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51121ea4-68ad-416b-ba1f-3d246ee06a60</testCaseGuid>
+</TestCaseEntity>

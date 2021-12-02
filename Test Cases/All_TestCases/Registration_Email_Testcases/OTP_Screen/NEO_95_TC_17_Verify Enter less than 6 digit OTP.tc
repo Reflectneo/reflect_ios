@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Enter less than 6 digit OTP</description>
+   <name>NEO_95_TC_17_Verify Enter less than 6 digit OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f53075b-c914-4e67-bb2a-c0f904e36504</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Amount details</description>
+   <name>NEO_336_TC_07_Validate Amount details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddcb15e3-7cee-4c16-878d-1ea89edb88fe</testCaseGuid>
+</TestCaseEntity>

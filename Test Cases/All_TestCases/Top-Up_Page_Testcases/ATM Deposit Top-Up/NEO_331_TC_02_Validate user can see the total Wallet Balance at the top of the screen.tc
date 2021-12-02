@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate user can see  the total Wallet Balance  at the top of the screen</description>
+   <name>NEO_331_TC_02_Validate user can see the total Wallet Balance at the top of the screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e692d242-9f36-4b57-90b9-58103ee54444</testCaseGuid>
+</TestCaseEntity>

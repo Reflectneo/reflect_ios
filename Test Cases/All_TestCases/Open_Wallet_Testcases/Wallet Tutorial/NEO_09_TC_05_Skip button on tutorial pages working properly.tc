@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the 'skip' button on tutorial pages working properly</description>
+   <name>NEO_09_TC_05_Skip button on tutorial pages working properly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9eb9e3f-3e75-471d-b331-a9e00fb69c9c</testCaseGuid>
+</TestCaseEntity>

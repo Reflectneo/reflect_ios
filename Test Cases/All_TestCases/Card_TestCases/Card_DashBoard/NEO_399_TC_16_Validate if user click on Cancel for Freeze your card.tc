@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate if user click on Cancel for Freeze your card</description>
+   <name>NEO_399_TC_16_Validate if user click on Cancel for Freeze your card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45f11f43-6670-45cf-80a1-c5fbf2003fe6</testCaseGuid>
+</TestCaseEntity>

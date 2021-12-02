@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify phone Number Field is required</description>
+   <name>NEO_72_TC_08_Verify phone Number Field is required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce8e3f6c-bf6c-43af-9593-f350ae4f9459</testCaseGuid>
+</TestCaseEntity>

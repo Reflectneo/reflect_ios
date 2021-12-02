@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_148_TC_12_Validate the user sees the correct confirmation message upon creating a successful goal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccda52b1-f08d-4293-89be-03403d7b9d45</testCaseGuid>
+</TestCaseEntity>

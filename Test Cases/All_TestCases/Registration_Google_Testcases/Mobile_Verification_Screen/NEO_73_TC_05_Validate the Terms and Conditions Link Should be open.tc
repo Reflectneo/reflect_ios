@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the Terms &amp; Conditions Link Should be open</description>
+   <name>NEO_73_TC_05_Validate the Terms and Conditions Link Should be open</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>957077e1-236f-4516-b016-b5df6a083e6d</testCaseGuid>
+</TestCaseEntity>

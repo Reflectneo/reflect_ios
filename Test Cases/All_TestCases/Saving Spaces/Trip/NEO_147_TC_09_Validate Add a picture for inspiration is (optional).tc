@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  Add a picture for inspiration is (optional)</description>
+   <name>NEO_147_TC_09_Validate Add a picture for inspiration is (optional)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9d713c3-c9ce-4997-9682-5a603ce2215a</testCaseGuid>
+</TestCaseEntity>

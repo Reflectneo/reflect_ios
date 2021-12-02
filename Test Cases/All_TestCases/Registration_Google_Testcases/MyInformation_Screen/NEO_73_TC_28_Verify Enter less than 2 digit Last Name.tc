@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Enter less than 2 digit Last Name</description>
+   <name>NEO_73_TC_28_Verify Enter less than 2 digit Last Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37814597-059d-4863-8394-88a97dffaef8</testCaseGuid>
+</TestCaseEntity>

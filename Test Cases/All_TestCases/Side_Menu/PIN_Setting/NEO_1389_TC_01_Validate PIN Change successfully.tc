@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate PIN Change successfully</description>
+   <name>NEO_1389_TC_01_Validate PIN Change successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58ca8fcb-764d-4cca-b161-37cb68bad946</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the meassage&quot;Are you going to cancel the card and Reissue new one&quot;</description>
+   <name>NEO_399_TC_20_Validate the meassage Are you going to cancel the card and Reissue new one</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af3c47b7-51e4-4fc0-96a2-cd4755313d44</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Virtual Card</description>
+   <name>NEO_399_TC_01_Validate Virtual Card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4be175bb-a818-4014-9f93-4571fc43aae2</testCaseGuid>
+</TestCaseEntity>

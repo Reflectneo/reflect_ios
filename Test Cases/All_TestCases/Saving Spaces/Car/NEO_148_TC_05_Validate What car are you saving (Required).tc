@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Where are you going is (Required)</description>
+   <name>NEO_148_TC_05_Validate What car are you saving (Required)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e63f95d-cfd6-4e85-9ff9-02106cd02ada</testCaseGuid>
+</TestCaseEntity>

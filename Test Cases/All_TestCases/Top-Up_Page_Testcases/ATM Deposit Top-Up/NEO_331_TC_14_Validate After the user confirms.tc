@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate After the user confirms</description>
+   <name>NEO_331_TC_14_Validate After the user confirms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d818127c-c88c-4a92-b371-d3b102d80a8c</testCaseGuid>
+</TestCaseEntity>

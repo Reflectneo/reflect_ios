@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate user can see  ATM withdrawl button</description>
+   <name>NEO_329_TC_01_Validate user can see ATM withdrawl button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40dc1bd5-82ab-48ff-b602-9082a86c6109</testCaseGuid>
+</TestCaseEntity>

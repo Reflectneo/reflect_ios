@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate User can able to share the details Via  email, WhatsApp and etc</description>
+   <name>NEO_28_TC_01_Validate User can able to share the details Via email, WhatsApp and etc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32bdc0e2-bf65-4afb-b6a6-a915457bd0a6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Fields visbile after biometirc authentication</description>
+   <name>NEO_399_TC_10_Validate Fields visbile after biometirc authentication</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9beb098-3759-41bf-8cf2-ebd17228774b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "EF5C76D712908E75059349B61C34D1CB",
+  "keywordClasses": [
+    {
+      "name": "com.arabbank.toastmessage.Validate",
+      "keywordMethods": [
+        {
+          "name": "readToastMessage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

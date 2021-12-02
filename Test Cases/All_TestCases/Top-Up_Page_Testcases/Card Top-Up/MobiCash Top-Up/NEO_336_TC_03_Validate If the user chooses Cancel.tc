@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate If the user chooses Cancel</description>
+   <name>NEO_336_TC_03_Validate If the user chooses Cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b9eee0f-df8d-4f6a-ad67-c7d12b923228</testCaseGuid>
+</TestCaseEntity>

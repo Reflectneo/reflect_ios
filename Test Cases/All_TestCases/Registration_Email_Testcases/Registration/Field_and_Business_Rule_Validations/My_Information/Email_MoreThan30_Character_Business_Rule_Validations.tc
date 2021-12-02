@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Email_MoreThan30_Character_Business_Rule_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>546612dd-c25a-4782-908f-17d47d9ff239</testCaseGuid>
+</TestCaseEntity>

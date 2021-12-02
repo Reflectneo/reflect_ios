@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate last 4 digits</description>
+   <name>NEO_399_TC_03_Validate last 4 digits</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c742fca3-3c55-4c8a-8657-99a3ffdbd826</testCaseGuid>
+</TestCaseEntity>

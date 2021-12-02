@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Email_Without_Dot_BusinessRule_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdad87c3-6092-4781-bcbf-e1cdd28c83f1</testCaseGuid>
+</TestCaseEntity>

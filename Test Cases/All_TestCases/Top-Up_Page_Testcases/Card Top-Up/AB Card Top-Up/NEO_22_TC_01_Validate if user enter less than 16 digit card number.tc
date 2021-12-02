@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate if user enter less than 16 digit card number</description>
+   <name>NEO_22_TC_01_Validate if user enter less than 16 digit card number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42b0d0a0-fb9e-4eee-8003-0ba5e9c4d24b</testCaseGuid>
+</TestCaseEntity>

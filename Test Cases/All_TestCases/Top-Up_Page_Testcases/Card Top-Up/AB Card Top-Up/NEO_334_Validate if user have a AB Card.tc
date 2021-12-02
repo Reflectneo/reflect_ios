@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate if user have a AB Card</description>
+   <name>NEO_334_Validate if user have a AB Card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e68cbe36-0f0a-432d-bc88-7c99b43ae653</testCaseGuid>
+</TestCaseEntity>

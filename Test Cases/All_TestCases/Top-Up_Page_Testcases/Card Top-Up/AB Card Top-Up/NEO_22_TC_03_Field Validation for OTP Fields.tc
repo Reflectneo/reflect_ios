@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Field Validation for OTP Fields</description>
+   <name>NEO_22_TC_03_Field Validation for OTP Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b518f2e1-9453-44cb-a73b-f910da46b714</testCaseGuid>
+</TestCaseEntity>

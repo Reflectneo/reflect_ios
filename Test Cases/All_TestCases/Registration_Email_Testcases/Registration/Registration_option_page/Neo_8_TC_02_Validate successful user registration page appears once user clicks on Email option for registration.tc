@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neo_8_TC_02_Validate successful user registration page appears once user clicks on Email option for registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c67163f4-49c0-4ae9-af54-bc4c107115ba</testCaseGuid>
+</TestCaseEntity>

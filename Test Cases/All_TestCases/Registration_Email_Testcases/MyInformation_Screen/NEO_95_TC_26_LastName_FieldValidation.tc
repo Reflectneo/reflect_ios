@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>LastName_FieldValidation</description>
+   <name>NEO_95_TC_26_LastName_FieldValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1d48a18-fb1e-4cf0-bc66-f7d176a8caf4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate User able to enter the amount by tapping on the 'JOD box' and the device numeric keypad pops up</description>
+   <name>NEO_331_TC_05_Validate User able to enter the amount by tapping on the JOD box and the device numeric keypad pops up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cfdb862-6433-46a2-ab5f-d11f1ad1847a</testCaseGuid>
+</TestCaseEntity>

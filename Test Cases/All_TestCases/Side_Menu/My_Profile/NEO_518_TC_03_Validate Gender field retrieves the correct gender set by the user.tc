@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_518_TC_03_Validate Gender field retrieves the correct gender set by the user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>111b279a-0e17-46fc-bcef-0ad1a974b07d</testCaseGuid>
+</TestCaseEntity>

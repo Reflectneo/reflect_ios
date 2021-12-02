@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Date of Birth_LessThan18_Years_Business_Rule_Validations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3eb50a3c-1c04-4440-949a-cce2b79d3500</testCaseGuid>
+</TestCaseEntity>

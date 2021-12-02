@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  all details populated as per customer</description>
+   <name>NEO_329_TC_14_Validate all details populated as per customer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76f72d3d-9964-45ff-999a-2a84b903c221</testCaseGuid>
+</TestCaseEntity>

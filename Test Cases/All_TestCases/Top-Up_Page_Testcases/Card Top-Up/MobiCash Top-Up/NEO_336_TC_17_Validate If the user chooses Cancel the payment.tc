@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate If the user chooses Cancel the payment</description>
+   <name>NEO_336_TC_17_Validate If the user chooses Cancel the payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2c3c650-3e60-4092-b019-ddcc4452bd52</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Field Validation for Terms and Conditions</description>
+   <name>NEO_72_TC_02_Field Validation for Terms and Conditions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ef6da91-f3da-4a47-916e-ff277bf2c941</testCaseGuid>
+</TestCaseEntity>

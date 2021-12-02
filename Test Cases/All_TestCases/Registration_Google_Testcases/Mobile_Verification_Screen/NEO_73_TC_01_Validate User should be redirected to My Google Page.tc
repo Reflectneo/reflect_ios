@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate User should be redirected to My Facebook  Page</description>
+   <name>NEO_73_TC_01_Validate User should be redirected to My Google Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfc6e3be-7d58-4893-aff4-7b0e0cbcb423</testCaseGuid>
+</TestCaseEntity>

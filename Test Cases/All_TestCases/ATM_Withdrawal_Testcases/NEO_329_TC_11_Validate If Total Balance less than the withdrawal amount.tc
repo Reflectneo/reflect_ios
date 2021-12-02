@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  If Total Balance less than the withdrawal amount</description>
+   <name>NEO_329_TC_11_Validate If Total Balance less than the withdrawal amount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df678d72-18c8-4bf3-89ce-bfbfbcb9311b</testCaseGuid>
+</TestCaseEntity>

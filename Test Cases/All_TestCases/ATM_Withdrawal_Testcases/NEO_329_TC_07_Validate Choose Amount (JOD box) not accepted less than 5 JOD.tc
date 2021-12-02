@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Choose Amount (JOD box) not accepted less than 5 JOD</description>
+   <name>NEO_329_TC_07_Validate Choose Amount (JOD box) not accepted less than 5 JOD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81b394ac-77a4-4a64-a78c-a79fb8ef008f</testCaseGuid>
+</TestCaseEntity>

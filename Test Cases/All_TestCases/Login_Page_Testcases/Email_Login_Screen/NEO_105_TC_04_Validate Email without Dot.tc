@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_105_TC_04_Validate Email without Dot</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65f144ce-01e5-45d1-91b6-05702b8494cc</testCaseGuid>
+</TestCaseEntity>

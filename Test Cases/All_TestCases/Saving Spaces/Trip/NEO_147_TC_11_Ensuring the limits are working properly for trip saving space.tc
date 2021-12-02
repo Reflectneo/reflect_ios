@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensuring the limits are working properly for trip saving space</description>
+   <name>NEO_147_TC_11_Ensuring the limits are working properly for trip saving space</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb1aa715-1dc1-438a-8fff-8c793d6eff43</testCaseGuid>
+</TestCaseEntity>

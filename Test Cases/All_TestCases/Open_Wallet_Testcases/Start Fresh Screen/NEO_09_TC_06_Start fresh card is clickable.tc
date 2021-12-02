@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the entire start fresh card is clickable</description>
+   <name>NEO_09_TC_06_Start fresh card is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcab397c-00b0-4bc2-a794-e8ce22cbefd9</testCaseGuid>
+</TestCaseEntity>

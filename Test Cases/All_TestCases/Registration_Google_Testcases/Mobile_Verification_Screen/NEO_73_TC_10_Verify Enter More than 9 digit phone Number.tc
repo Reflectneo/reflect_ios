@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Enter More than 9 digit phone Number</description>
+   <name>NEO_73_TC_10_Verify Enter More than 9 digit phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fefc3f81-9ef8-4b46-92e0-c93e3b9ab59d</testCaseGuid>
+</TestCaseEntity>

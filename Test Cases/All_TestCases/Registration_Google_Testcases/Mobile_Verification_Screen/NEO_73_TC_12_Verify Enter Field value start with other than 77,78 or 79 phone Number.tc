@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Enter Field value start with other than 77,78 or 79 phone Number</description>
+   <name>NEO_73_TC_12_Verify Enter Field value start with other than 77,78 or 79 phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca9ce813-e2b4-4c4d-9854-ea753fa08c6e</testCaseGuid>
+</TestCaseEntity>

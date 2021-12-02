@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Choose Amount (JOD box) not accepted decimal value</description>
+   <name>NEO_329_TC_09_Validate Choose Amount (JOD box) not accepted decimal value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>123aeb79-29ff-4e38-8f1d-a0f65dfb829b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate CVV code</description>
+   <name>NEO_399_TC_13_Validate CVV code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7500c7c4-5e8a-482f-a0ac-62fd222f7959</testCaseGuid>
+</TestCaseEntity>

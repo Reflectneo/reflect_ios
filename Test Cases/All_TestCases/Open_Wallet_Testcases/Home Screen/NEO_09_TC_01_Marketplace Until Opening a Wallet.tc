@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure users cannot access the marketplace until opening a wallet</description>
+   <name>NEO_09_TC_01_Marketplace Until Opening a Wallet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acd4f532-7817-4ce2-b9d2-4d63d135d321</testCaseGuid>
+</TestCaseEntity>

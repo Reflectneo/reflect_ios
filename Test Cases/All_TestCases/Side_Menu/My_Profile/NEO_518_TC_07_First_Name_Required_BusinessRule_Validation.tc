@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_518_TC_07_First_Name_Required_BusinessRule_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d956287f-1e85-4ed0-a9d4-dc8f87a5faa3</testCaseGuid>
+</TestCaseEntity>

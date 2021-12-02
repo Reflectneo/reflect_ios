@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Unable to enter Special Character</description>
+   <name>NEO_72_TC_11_Verify Unable to enter Special Character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bad9a6b2-c386-4605-bf0b-f2e0dc197f47</testCaseGuid>
+</TestCaseEntity>

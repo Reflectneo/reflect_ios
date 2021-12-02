@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_518_TC_04_Validate Email field retrieves the correct email set by the user in the registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8265f1e-1f1d-45d7-a0a6-a628bc09478b</testCaseGuid>
+</TestCaseEntity>

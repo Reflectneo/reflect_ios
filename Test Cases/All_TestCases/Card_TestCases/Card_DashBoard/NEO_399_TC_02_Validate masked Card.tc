@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate masked Card</description>
+   <name>NEO_399_TC_02_Validate masked Card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>157219c7-d131-4439-a8fa-37f3cf841d41</testCaseGuid>
+</TestCaseEntity>

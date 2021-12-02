@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure users cannot access the offers section until opening a wallet</description>
+   <name>NEO_09_TC_02_Offers Section Until Opening a Wallet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fac0c8e-a772-4430-8587-f856894105a5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  successfully  User should be Sign-up to Email</description>
+   <name>NEO_73_TC_60_Validate successfully User should be Sign-up to Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75c652f1-3830-4555-b429-f95668de769a</testCaseGuid>
+</TestCaseEntity>

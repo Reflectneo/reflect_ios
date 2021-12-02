@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_518_TC_01_Validate first and last name of the user are pulled correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c586d44b-98de-4d88-88c0-315b27b46aea</testCaseGuid>
+</TestCaseEntity>

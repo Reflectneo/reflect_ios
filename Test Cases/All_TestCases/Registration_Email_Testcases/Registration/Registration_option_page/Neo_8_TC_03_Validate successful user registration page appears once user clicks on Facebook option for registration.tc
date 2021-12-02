@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neo_8_TC_03_Validate successful user registration page appears once user clicks on Facebook option for registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a6e7697-4666-4ec4-90bf-9f87e07e03ff</testCaseGuid>
+</TestCaseEntity>

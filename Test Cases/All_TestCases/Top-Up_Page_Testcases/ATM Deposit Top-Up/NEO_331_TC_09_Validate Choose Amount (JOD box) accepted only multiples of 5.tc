@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Choose Amount (JOD box)  accepted only multiples of 5</description>
+   <name>NEO_331_TC_09_Validate Choose Amount (JOD box) accepted only multiples of 5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>080ddc32-fb2e-428a-9825-355eda90ba9e</testCaseGuid>
+</TestCaseEntity>

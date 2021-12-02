@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validation  Random Number in OTP Fields</description>
+   <name>NEO_118_TC_04_Validation Random Number in OTP Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a9f25a3-a065-48d0-9e13-9f32516231f2</testCaseGuid>
+</TestCaseEntity>

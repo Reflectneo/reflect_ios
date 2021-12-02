@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Starting a new saving space</description>
+   <name>NEO_149_TC_01_Starting a new saving space</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a342893-96d8-4651-9492-8b80443a330c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neo_8_TC_04_Validate successful user registration page appears once user clicks on Google. option for registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6faaf826-c9a3-4971-8b88-6954904136f2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "6D05ED62EA6E8C64A6B5EF4F8FECF909",
+  "keywordClasses": [
+    {
+      "name": "com.arabbank.CurrentDate.CurrentDate",
+      "keywordMethods": [
+        {
+          "name": "today",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

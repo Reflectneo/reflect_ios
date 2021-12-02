@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate after click on Pay bill</description>
+   <name>NEO_336_TC_10_Validate after click on Pay bill</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b297820a-09e5-4128-97b3-80bb8dee72f5</testCaseGuid>
+</TestCaseEntity>

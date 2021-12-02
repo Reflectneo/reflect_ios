@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  Grant access to your Device's location. Pop-up will appear,If the user selects 'Allow once' or ' Allow while using the app'</description>
+   <name>NEO_30_TC_04_Validate Grant access to your Devices location. Pop-up will appear If the user selects Allow once or Allow while using the app</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b454ffcd-4806-4ec6-9ad8-1cbe6ba18405</testCaseGuid>
+</TestCaseEntity>

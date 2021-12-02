@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate What's your travel budget  is (Required)</description>
+   <name>NEO_148_TC_08_Validate How much is your dream car is (Required)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2ad38c9-20cc-4210-8624-1b1806f36518</testCaseGuid>
+</TestCaseEntity>

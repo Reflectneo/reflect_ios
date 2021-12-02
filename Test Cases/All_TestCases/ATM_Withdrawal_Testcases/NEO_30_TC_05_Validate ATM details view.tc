@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate ATM details view</description>
+   <name>NEO_30_TC_05_Validate ATM details view</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cfdd2b2-65bf-4882-ac87-831204008cb6</testCaseGuid>
+</TestCaseEntity>

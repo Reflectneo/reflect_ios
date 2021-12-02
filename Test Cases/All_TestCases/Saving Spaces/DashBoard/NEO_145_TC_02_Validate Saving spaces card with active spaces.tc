@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Saving spaces card with active spaces</description>
+   <name>NEO_145_TC_02_Validate Saving spaces card with active spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>362af009-927d-41fc-80d3-0fcfa9176d3f</testCaseGuid>
+</TestCaseEntity>

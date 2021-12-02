@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate  Confirmation Pop-up will appear</description>
+   <name>NEO_331_TC_13_Validate Confirmation Pop-up will appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f28ed4f7-270f-4491-a041-584307b8b42e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate if the user presses close</description>
+   <name>NEO_331_TC_15_Validate if the user presses close</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe6478a8-e368-42b5-90d3-7149ac85faff</testCaseGuid>
+</TestCaseEntity>

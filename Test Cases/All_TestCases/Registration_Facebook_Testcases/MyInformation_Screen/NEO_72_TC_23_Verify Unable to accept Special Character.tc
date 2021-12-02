@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify  Unable to accept Special Character</description>
+   <name>NEO_72_TC_23_Verify Unable to accept Special Character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d79fa00a-9fef-46c2-b250-3b82c0a89c15</testCaseGuid>
+</TestCaseEntity>

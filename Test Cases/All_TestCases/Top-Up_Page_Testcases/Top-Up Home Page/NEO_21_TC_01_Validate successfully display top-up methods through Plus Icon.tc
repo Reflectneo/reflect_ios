@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NEO_21_TC_01_Validate successfully display top-up methods through Plus Icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f819567-ef30-4e4c-8ca0-286fabd91255</testCaseGuid>
+</TestCaseEntity>

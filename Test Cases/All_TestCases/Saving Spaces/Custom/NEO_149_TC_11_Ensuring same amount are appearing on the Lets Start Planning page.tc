@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensuring same amount  are appearing on the 'Lets Start Planning' page</description>
+   <name>NEO_149_TC_11_Ensuring same amount are appearing on the Lets Start Planning page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>311f1e86-d6fb-4520-b8d4-e3f643775313</testCaseGuid>
+</TestCaseEntity>

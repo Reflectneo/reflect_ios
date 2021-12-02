@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Email ID without Dot</description>
+   <name>NEO_73_TC_42_Verify Email ID without Dot</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36a5e363-74b8-4278-b5e3-9670b08b92a7</testCaseGuid>
+</TestCaseEntity>

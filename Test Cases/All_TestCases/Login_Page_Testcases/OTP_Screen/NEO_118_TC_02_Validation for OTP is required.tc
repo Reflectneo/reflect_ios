@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validation for OTP is required</description>
+   <name>NEO_118_TC_02_Validation for OTP is required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8a581f6-d0ea-4092-8306-d86121901e4a</testCaseGuid>
+</TestCaseEntity>

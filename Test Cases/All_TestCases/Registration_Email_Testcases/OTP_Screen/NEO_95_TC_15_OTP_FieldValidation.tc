@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>OTP_FieldValidation</description>
+   <name>NEO_95_TC_15_OTP_FieldValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b3ac98e-5223-4c15-bcc1-eef19777588b</testCaseGuid>
+</TestCaseEntity>

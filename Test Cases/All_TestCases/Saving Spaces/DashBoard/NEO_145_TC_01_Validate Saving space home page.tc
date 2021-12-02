@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Saving space home page</description>
+   <name>NEO_145_TC_01_Validate Saving space home page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfbbb3ef-735c-42e2-b403-5c382cadc32b</testCaseGuid>
+</TestCaseEntity>

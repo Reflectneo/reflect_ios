@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate user can see  by default 0 value</description>
+   <name>NEO_331_TC_04_Validate user can see by default 0 value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce89cd08-48b8-4d4f-8cda-fe6e84f4d304</testCaseGuid>
+</TestCaseEntity>

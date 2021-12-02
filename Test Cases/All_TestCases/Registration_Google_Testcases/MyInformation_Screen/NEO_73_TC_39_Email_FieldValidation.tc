@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email_FieldValidation</description>
+   <name>NEO_73_TC_39_Email_FieldValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>798e513c-18f5-41a0-840f-5185bf203510</testCaseGuid>
+</TestCaseEntity>

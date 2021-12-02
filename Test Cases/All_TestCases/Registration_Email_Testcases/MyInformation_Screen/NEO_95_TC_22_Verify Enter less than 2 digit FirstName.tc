@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Enter less than 2 digit FirstName</description>
+   <name>NEO_95_TC_22_Verify Enter less than 2 digit FirstName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8d9f36a-96d1-4f03-b54d-b8dfab3b7321</testCaseGuid>
+</TestCaseEntity>

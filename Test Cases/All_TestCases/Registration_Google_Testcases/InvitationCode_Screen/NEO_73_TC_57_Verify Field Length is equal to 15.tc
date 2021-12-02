@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Field Length is equal to 15</description>
+   <name>NEO_73_TC_57_Verify Field Length is equal to 15</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f448bb0b-feea-4229-8848-21866c12d909</testCaseGuid>
+</TestCaseEntity>

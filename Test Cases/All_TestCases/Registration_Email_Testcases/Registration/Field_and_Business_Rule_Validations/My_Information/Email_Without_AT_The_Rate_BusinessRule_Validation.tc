@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Email_Without_AT_The_Rate_BusinessRule_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1836133-b8bd-442b-8a3b-6de480f0be64</testCaseGuid>
+</TestCaseEntity>

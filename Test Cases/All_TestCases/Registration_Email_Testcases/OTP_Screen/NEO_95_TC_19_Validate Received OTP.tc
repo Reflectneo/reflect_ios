@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Received OTP</description>
+   <name>NEO_95_TC_19_Validate Received OTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d39a4a73-b730-4f2b-a9ac-f0acbd5e333c</testCaseGuid>
+</TestCaseEntity>

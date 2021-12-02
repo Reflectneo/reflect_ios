@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate User can See the share page</description>
+   <name>NEO_27_TC_04_Validate User can See the share page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dfc9942-38e4-4d34-b9ab-3a9cddbe4f0c</testCaseGuid>
+</TestCaseEntity>

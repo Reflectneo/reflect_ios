@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the &quot;'calendar&quot; button is working</description>
+   <name>Neo_09_TC_23_Calendar button is working</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce6ee59f-46a1-468e-a427-fb0fdfca482c</testCaseGuid>
+</TestCaseEntity>

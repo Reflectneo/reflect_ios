@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OTP_Invalid_BusinessRuleValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc4ada1d-c7af-4d74-8ec2-c4c132827833</testCaseGuid>
+</TestCaseEntity>

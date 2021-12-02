@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Where are you going is (Required)</description>
+   <name>NEO_147_TC_05_Validate Where are you going is (Required)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4c8688b-1d46-49bd-a9c2-d48f5948e63c</testCaseGuid>
+</TestCaseEntity>
